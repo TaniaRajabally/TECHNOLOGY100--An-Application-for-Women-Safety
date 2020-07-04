@@ -1,0 +1,668 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:1:1-67:12
+MERGED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:1:1-67:12
+MERGED from [:location] D:\mpflutter\flutter_location\flutter_location\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:google_maps_flutter] D:\mpflutter\flutter_location\flutter_location\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\mpflutter\flutter_location\flutter_location\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player] D:\mpflutter\flutter_location\flutter_location\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_web] D:\mpflutter\flutter_location\flutter_location\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] D:\mpflutter\flutter_location\flutter_location\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:google_api_availability] D:\mpflutter\flutter_location\flutter_location\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] D:\mpflutter\flutter_location\flutter_location\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] D:\mpflutter\flutter_location\flutter_location\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:location_web] D:\mpflutter\flutter_location\flutter_location\build\location_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] D:\mpflutter\flutter_location\flutter_location\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] D:\mpflutter\flutter_location\flutter_location\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:contacts_service] D:\mpflutter\flutter_location\flutter_location\build\contacts_service\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:permission_handler] D:\mpflutter\flutter_location\flutter_location\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth_web] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocation] D:\mpflutter\flutter_location\flutter_location\build\geolocation\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:local_auth] D:\mpflutter\flutter_location\flutter_location\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:streams_channel] D:\mpflutter\flutter_location\flutter_location\build\streams_channel\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:location_permissions] D:\mpflutter\flutter_location\flutter_location\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] D:\mpflutter\flutter_location\flutter_location\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:hardware_buttons] D:\mpflutter\flutter_location\flutter_location\build\hardware_buttons\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cbe4ad48a4c6d12ec34f12aea71320e4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a2b8939efffbeb8001c89c0a06bea43e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\82b7fda8911f9790dbe1ca3268ccad70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9af54d2040ff8b9fc4d8a5db12dade49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:17:1-38:12
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-0.2.0.aar\2ca7c2f6820cfe835e55fde0af3a0c8e\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\df0aca841c38534a9d9b4ad2380a23d3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-location-17.0.0.aar\b654ce3a7e0215b93811dc6caa5780c4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fbb76933231a978907660e7d74024b90\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-17.0.0.aar\d42215e82892422c6ee98f020b8e04fa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\bbab5700988878b14da51d4d2ba144e5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73c0bd763700ed3868a0f2af0c0656fa\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\54f90538391feedb61f49160cfda667a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\78814b76e0c352cd161f06bdbda34fa2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\babc1c82b7022c5c6dbe52bace3d1fc1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8420278dda5eb014e7b0a2bd1f945092\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\media-1.1.0.aar\8bb597c0b138c381cc8b98795cd9ed9d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\c8b82f968ad95b4ac6ac3d8d0e266ae3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\7ab9989dad8c0ab7ed234baeb13f29de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\dbfd8e183e7d22e66ccd6880fe2b5d1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\246cf5bc7278751d5811c60ebeeee121\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\6ed1b66e9c3f5316425f5c3664e1b87d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ce9758659fee16ac13cc11786500cbfd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\83e1a5d55785122ad5f8ba30debbbc6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\9967c0daab6aecc37f7e2f028cbc5b1f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9206a644df99761c8fdde95a14677ca7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\f0a1b3bf51a279c72a7ac514687d04d6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\63e159c31e52f639c4666fb9e87868d3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\55ef235e39581e59d2af69ce85e84d94\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4e8190431d55fe489a3d2d1771a85363\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\b05422b799083d32cfa7d009762eb2ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\42c6abf05a111c57a6ef76e299f0ae0f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\b6214c706c8ebd440c50b0d5d21153ec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\a8b4a35492a9ec4368def2f4a882279b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\8ffcb4adf3704be5e38c056dc06e66c7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\2c64d81a458e4295b9ff3b665db9f261\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\f0441312f92a6af22d711c0268ccdbb0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\05eb811c06dd3cc57052c7ee92b24a86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\cdc9768b67bc5a00fb4b88415b247b97\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\fb8f63c2240da61192e658ca5c46d91c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d96f10db71261da38ee87a19e848aac0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d0350cbd5138854e4ebfdd58657cbf94\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\d930d4410523c19af6b824efdee0af6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b2c5abf8ca9ef6dbd7fec3b59e690902\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cdb2c9e6f44d720abadd61a446e7e97f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ee1b5cb2f8a8511e4cfaaa61b724970d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\f14c12a1027c0c6de12009c853c31f86\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\549205df2e47eac9cacfd9069f9f74fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\b393254b6501ce61ea32131fea4d9a65\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:1:1-67:12
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:1:1-67:12
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:3:5-65
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:3:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:4:5-80
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:16:5-66
+MERGED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:16:5-66
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\2c64d81a458e4295b9ff3b665db9f261\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\2c64d81a458e4295b9ff3b665db9f261\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:17:5-78
+MERGED from [:location] D:\mpflutter\flutter_location\flutter_location\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+MERGED from [:location] D:\mpflutter\flutter_location\flutter_location\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+MERGED from [:geolocator] D:\mpflutter\flutter_location\flutter_location\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:geolocator] D:\mpflutter\flutter_location\flutter_location\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:20:5-66
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:11:5-66
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:20:22-63
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:22:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:24:5-73
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:24:22-71
+application
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:28:5-66:19
+MERGED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-28:19
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-28:19
+MERGED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cbe4ad48a4c6d12ec34f12aea71320e4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cbe4ad48a4c6d12ec34f12aea71320e4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:30:5-36:19
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-0.2.0.aar\2ca7c2f6820cfe835e55fde0af3a0c8e\AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-0.2.0.aar\2ca7c2f6820cfe835e55fde0af3a0c8e\AndroidManifest.xml:12:5-20
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:13:5-20:19
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:13:5-20:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-location-17.0.0.aar\b654ce3a7e0215b93811dc6caa5780c4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-location-17.0.0.aar\b654ce3a7e0215b93811dc6caa5780c4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fbb76933231a978907660e7d74024b90\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fbb76933231a978907660e7d74024b90\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-17.0.0.aar\d42215e82892422c6ee98f020b8e04fa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-17.0.0.aar\d42215e82892422c6ee98f020b8e04fa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\bbab5700988878b14da51d4d2ba144e5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\bbab5700988878b14da51d4d2ba144e5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73c0bd763700ed3868a0f2af0c0656fa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73c0bd763700ed3868a0f2af0c0656fa\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4e8190431d55fe489a3d2d1771a85363\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4e8190431d55fe489a3d2d1771a85363\AndroidManifest.xml:24:5-89
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\f0441312f92a6af22d711c0268ccdbb0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\f0441312f92a6af22d711c0268ccdbb0\AndroidManifest.xml:24:5-25:19
+	android:screenOrientation
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-45
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4e8190431d55fe489a3d2d1771a85363\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:31:9-41
+	android:windowSoftInputMode
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-56
+	android:configChanges
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-59
+	android:allowBackup
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:32:9-43
+	android:theme
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:29:9-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:46:9-47:70
+	android:value
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:47:13-68
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:46:20-65
+activity#com.example.flutter_location.MainActivity
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:49:9-60:20
+	android:launchMode
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:51:13-43
+	android:hardwareAccelerated
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:54:13-47
+	android:windowSoftInputMode
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:55:13-55
+	android:configChanges
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:53:13-163
+	android:theme
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:52:13-47
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:50:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:56:13-59:29
+action#android.intent.action.MAIN
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:57:17-68
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:58:17-76
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:58:27-74
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:63:9-65:40
+	android:value
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:65:17-37
+	android:name
+		ADDED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml:64:13-78
+uses-sdk
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml
+MERGED from [:location] D:\mpflutter\flutter_location\flutter_location\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] D:\mpflutter\flutter_location\flutter_location\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] D:\mpflutter\flutter_location\flutter_location\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] D:\mpflutter\flutter_location\flutter_location\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\mpflutter\flutter_location\flutter_location\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\mpflutter\flutter_location\flutter_location\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] D:\mpflutter\flutter_location\flutter_location\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] D:\mpflutter\flutter_location\flutter_location\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_web] D:\mpflutter\flutter_location\flutter_location\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_web] D:\mpflutter\flutter_location\flutter_location\build\video_player_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] D:\mpflutter\flutter_location\flutter_location\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] D:\mpflutter\flutter_location\flutter_location\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] D:\mpflutter\flutter_location\flutter_location\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] D:\mpflutter\flutter_location\flutter_location\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\mpflutter\flutter_location\flutter_location\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\mpflutter\flutter_location\flutter_location\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] D:\mpflutter\flutter_location\flutter_location\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] D:\mpflutter\flutter_location\flutter_location\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_web] D:\mpflutter\flutter_location\flutter_location\build\location_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_web] D:\mpflutter\flutter_location\flutter_location\build\location_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] D:\mpflutter\flutter_location\flutter_location\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] D:\mpflutter\flutter_location\flutter_location\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] D:\mpflutter\flutter_location\flutter_location\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] D:\mpflutter\flutter_location\flutter_location\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:contacts_service] D:\mpflutter\flutter_location\flutter_location\build\contacts_service\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:contacts_service] D:\mpflutter\flutter_location\flutter_location\build\contacts_service\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:permission_handler] D:\mpflutter\flutter_location\flutter_location\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] D:\mpflutter\flutter_location\flutter_location\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocation] D:\mpflutter\flutter_location\flutter_location\build\geolocation\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocation] D:\mpflutter\flutter_location\flutter_location\build\geolocation\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] D:\mpflutter\flutter_location\flutter_location\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] D:\mpflutter\flutter_location\flutter_location\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:streams_channel] D:\mpflutter\flutter_location\flutter_location\build\streams_channel\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:streams_channel] D:\mpflutter\flutter_location\flutter_location\build\streams_channel\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] D:\mpflutter\flutter_location\flutter_location\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] D:\mpflutter\flutter_location\flutter_location\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] D:\mpflutter\flutter_location\flutter_location\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\mpflutter\flutter_location\flutter_location\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\mpflutter\flutter_location\flutter_location\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:hardware_buttons] D:\mpflutter\flutter_location\flutter_location\build\hardware_buttons\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:hardware_buttons] D:\mpflutter\flutter_location\flutter_location\build\hardware_buttons\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cbe4ad48a4c6d12ec34f12aea71320e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cbe4ad48a4c6d12ec34f12aea71320e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a2b8939efffbeb8001c89c0a06bea43e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a2b8939efffbeb8001c89c0a06bea43e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\82b7fda8911f9790dbe1ca3268ccad70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\82b7fda8911f9790dbe1ca3268ccad70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9af54d2040ff8b9fc4d8a5db12dade49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9af54d2040ff8b9fc4d8a5db12dade49\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:20:5-44
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-0.2.0.aar\2ca7c2f6820cfe835e55fde0af3a0c8e\AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-0.2.0.aar\2ca7c2f6820cfe835e55fde0af3a0c8e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\df0aca841c38534a9d9b4ad2380a23d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\df0aca841c38534a9d9b4ad2380a23d3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-location-17.0.0.aar\b654ce3a7e0215b93811dc6caa5780c4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-location-17.0.0.aar\b654ce3a7e0215b93811dc6caa5780c4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fbb76933231a978907660e7d74024b90\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fbb76933231a978907660e7d74024b90\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-17.0.0.aar\d42215e82892422c6ee98f020b8e04fa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-17.0.0.aar\d42215e82892422c6ee98f020b8e04fa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\bbab5700988878b14da51d4d2ba144e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\bbab5700988878b14da51d4d2ba144e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73c0bd763700ed3868a0f2af0c0656fa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73c0bd763700ed3868a0f2af0c0656fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\54f90538391feedb61f49160cfda667a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\54f90538391feedb61f49160cfda667a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\78814b76e0c352cd161f06bdbda34fa2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\78814b76e0c352cd161f06bdbda34fa2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\babc1c82b7022c5c6dbe52bace3d1fc1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\babc1c82b7022c5c6dbe52bace3d1fc1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8420278dda5eb014e7b0a2bd1f945092\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8420278dda5eb014e7b0a2bd1f945092\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\media-1.1.0.aar\8bb597c0b138c381cc8b98795cd9ed9d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\media-1.1.0.aar\8bb597c0b138c381cc8b98795cd9ed9d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\c8b82f968ad95b4ac6ac3d8d0e266ae3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\c8b82f968ad95b4ac6ac3d8d0e266ae3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\7ab9989dad8c0ab7ed234baeb13f29de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\7ab9989dad8c0ab7ed234baeb13f29de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\dbfd8e183e7d22e66ccd6880fe2b5d1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\dbfd8e183e7d22e66ccd6880fe2b5d1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\246cf5bc7278751d5811c60ebeeee121\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\246cf5bc7278751d5811c60ebeeee121\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\6ed1b66e9c3f5316425f5c3664e1b87d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\6ed1b66e9c3f5316425f5c3664e1b87d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ce9758659fee16ac13cc11786500cbfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ce9758659fee16ac13cc11786500cbfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\83e1a5d55785122ad5f8ba30debbbc6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\83e1a5d55785122ad5f8ba30debbbc6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\9967c0daab6aecc37f7e2f028cbc5b1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\9967c0daab6aecc37f7e2f028cbc5b1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9206a644df99761c8fdde95a14677ca7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9206a644df99761c8fdde95a14677ca7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\f0a1b3bf51a279c72a7ac514687d04d6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\f0a1b3bf51a279c72a7ac514687d04d6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\63e159c31e52f639c4666fb9e87868d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\63e159c31e52f639c4666fb9e87868d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\55ef235e39581e59d2af69ce85e84d94\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\55ef235e39581e59d2af69ce85e84d94\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4e8190431d55fe489a3d2d1771a85363\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4e8190431d55fe489a3d2d1771a85363\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\b05422b799083d32cfa7d009762eb2ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\b05422b799083d32cfa7d009762eb2ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\42c6abf05a111c57a6ef76e299f0ae0f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\42c6abf05a111c57a6ef76e299f0ae0f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\b6214c706c8ebd440c50b0d5d21153ec\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\b6214c706c8ebd440c50b0d5d21153ec\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\a8b4a35492a9ec4368def2f4a882279b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\a8b4a35492a9ec4368def2f4a882279b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\8ffcb4adf3704be5e38c056dc06e66c7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\8ffcb4adf3704be5e38c056dc06e66c7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\2c64d81a458e4295b9ff3b665db9f261\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\2c64d81a458e4295b9ff3b665db9f261\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\f0441312f92a6af22d711c0268ccdbb0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\f0441312f92a6af22d711c0268ccdbb0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\05eb811c06dd3cc57052c7ee92b24a86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\05eb811c06dd3cc57052c7ee92b24a86\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\cdc9768b67bc5a00fb4b88415b247b97\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\cdc9768b67bc5a00fb4b88415b247b97\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\fb8f63c2240da61192e658ca5c46d91c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\fb8f63c2240da61192e658ca5c46d91c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d96f10db71261da38ee87a19e848aac0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d96f10db71261da38ee87a19e848aac0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d0350cbd5138854e4ebfdd58657cbf94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d0350cbd5138854e4ebfdd58657cbf94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\d930d4410523c19af6b824efdee0af6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\d930d4410523c19af6b824efdee0af6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b2c5abf8ca9ef6dbd7fec3b59e690902\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b2c5abf8ca9ef6dbd7fec3b59e690902\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cdb2c9e6f44d720abadd61a446e7e97f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\cdb2c9e6f44d720abadd61a446e7e97f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ee1b5cb2f8a8511e4cfaaa61b724970d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ee1b5cb2f8a8511e4cfaaa61b724970d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\f14c12a1027c0c6de12009c853c31f86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\f14c12a1027c0c6de12009c853c31f86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\549205df2e47eac9cacfd9069f9f74fe\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\549205df2e47eac9cacfd9069f9f74fe\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\b393254b6501ce61ea32131fea4d9a65\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\b393254b6501ce61ea32131fea4d9a65\AndroidManifest.xml:5:5-44
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mpflutter\flutter_location\flutter_location\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] D:\mpflutter\flutter_location\flutter_location\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] D:\mpflutter\flutter_location\flutter_location\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] D:\mpflutter\flutter_location\flutter_location\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_database] D:\mpflutter\flutter_location\flutter_location\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-127
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] D:\mpflutter\flutter_location\flutter_location\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\mpflutter\flutter_location\flutter_location\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.camera
+ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-65
+activity#com.shinow.qrscan.SecondActivity
+ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from [:qrscan] D:\mpflutter\flutter_location\flutter_location\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:27:19-66
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:53
+	android:resource
+		ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-50
+	android:name
+		ADDED from [:flutter_webview_plugin] D:\mpflutter\flutter_location\flutter_location\build\flutter_webview_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:hardware_buttons] D:\mpflutter\flutter_location\flutter_location\build\hardware_buttons\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from [:hardware_buttons] D:\mpflutter\flutter_location\flutter_location\build\hardware_buttons\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-75
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\6870b9c115ac030a403958b338845f02\AndroidManifest.xml:37:17-109
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\5994e7120459365e02b53b7ad450923b\AndroidManifest.xml:34:13-50
+activity#com.uuzuche.lib_zxing.activity.CaptureActivity
+ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:14:9-19:63
+	android:screenOrientation
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:17:13-49
+	android:windowSoftInputMode
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:19:13-60
+	android:configChanges
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:16:13-63
+	android:theme
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:18:13-63
+	android:name
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\android-zxingLibrary-0.1.2-PRE.aar\db810802fd214f739f93bcf49681b6e8\AndroidManifest.xml:15:13-74
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\a7fbb354d8c3b67f499305490ec272da\AndroidManifest.xml:31:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-17.0.0.aar\9e376cf976779b64fea4c903770fa758\AndroidManifest.xml:32:17-107
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\0f01ce1b1baf42246bbeafd8d3d91b92\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\ddf91cbbe6ccb97fa3798f9948ebeacd\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73c0bd763700ed3868a0f2af0c0656fa\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73c0bd763700ed3868a0f2af0c0656fa\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73c0bd763700ed3868a0f2af0c0656fa\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\DeepiakP\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\a35aba868ee3f27857e952d731c766e2\AndroidManifest.xml:9:13-64

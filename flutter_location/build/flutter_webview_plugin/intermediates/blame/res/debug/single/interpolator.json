@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\mpflutter\\flutter_location\\flutter_location\\build\\flutter_webview_plugin\\intermediates\\res\\merged\\debug\\interpolator\\fast_out_slow_in.xml",
+        "source": "C:\\Users\\DeepiakP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\df0aca841c38534a9d9b4ad2380a23d3\\res\\interpolator\\fast_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\mpflutter\\flutter_location\\flutter_location\\build\\flutter_webview_plugin\\intermediates\\res\\merged\\debug\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\DeepiakP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\df0aca841c38534a9d9b4ad2380a23d3\\res\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "D:\\mpflutter\\flutter_location\\flutter_location\\build\\flutter_webview_plugin\\intermediates\\res\\merged\\debug\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "C:\\Users\\DeepiakP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\df0aca841c38534a9d9b4ad2380a23d3\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "D:\\mpflutter\\flutter_location\\flutter_location\\build\\flutter_webview_plugin\\intermediates\\res\\merged\\debug\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "C:\\Users\\DeepiakP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\df0aca841c38534a9d9b4ad2380a23d3\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "D:\\mpflutter\\flutter_location\\flutter_location\\build\\flutter_webview_plugin\\intermediates\\res\\merged\\debug\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\DeepiakP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\df0aca841c38534a9d9b4ad2380a23d3\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "D:\\mpflutter\\flutter_location\\flutter_location\\build\\flutter_webview_plugin\\intermediates\\res\\merged\\debug\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\DeepiakP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\df0aca841c38534a9d9b4ad2380a23d3\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "D:\\mpflutter\\flutter_location\\flutter_location\\build\\flutter_webview_plugin\\intermediates\\res\\merged\\debug\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\DeepiakP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\df0aca841c38534a9d9b4ad2380a23d3\\res\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    }
+]

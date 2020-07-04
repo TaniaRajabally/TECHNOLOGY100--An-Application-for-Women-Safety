@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590128947141",
+    "firebase_url": "https://womensafety-be730.firebaseio.com",
+    "project_id": "womensafety-be730",
+    "storage_bucket": "womensafety-be730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590128947141:android:9aa436877cfc85c3ab35ac",
+        "android_client_info": {
+          "package_name": "com.example.flutter_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590128947141-4j77ua1sd7jjlmg5kgcfuh4u4chk2ifo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzjvTixdeqXDvpHv1RUQeOQInjKMMgVy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590128947141-4j77ua1sd7jjlmg5kgcfuh4u4chk2ifo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

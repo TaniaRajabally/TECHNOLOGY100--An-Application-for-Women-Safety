@@ -1,0 +1,78 @@
+Flutter crash report; please file at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run --machine --target lib\main.dart -d 7TGYNBAYCQYTR86S --track-widget-creation --start-paused
+
+## exception
+
+StateError: Bad state: No element
+
+```
+#0      Stream.first.<anonymous closure> (dart:async/stream.dart:1258:13)
+#1      _rootRun (dart:async/zone.dart:1122:38)
+#2      _CustomZone.run (dart:async/zone.dart:1023:19)
+#3      _CustomZone.runGuarded (dart:async/zone.dart:925:7)
+#4      _BufferingStreamSubscription._sendDone.sendDone (dart:async/stream_impl.dart:392:13)
+#5      _BufferingStreamSubscription._sendDone (dart:async/stream_impl.dart:402:15)
+#6      _BufferingStreamSubscription._close (dart:async/stream_impl.dart:286:7)
+#7      _SyncBroadcastStreamController._sendDone.<anonymous closure> (dart:async/broadcast_stream_controller.dart:399:22)
+#8      _BroadcastStreamController._forEachListener (dart:async/broadcast_stream_controller.dart:326:15)
+#9      _SyncBroadcastStreamController._sendDone (dart:async/broadcast_stream_controller.dart:398:7)
+#10     _BroadcastStreamController.close (dart:async/broadcast_stream_controller.dart:274:5)
+#11     _rootRun (dart:async/zone.dart:1122:38)
+#12     _CustomZone.run (dart:async/zone.dart:1023:19)
+#13     _CustomZone.runGuarded (dart:async/zone.dart:925:7)
+#14     _BufferingStreamSubscription._sendDone.sendDone (dart:async/stream_impl.dart:392:13)
+#15     _BufferingStreamSubscription._sendDone (dart:async/stream_impl.dart:402:15)
+#16     _BufferingStreamSubscription._close (dart:async/stream_impl.dart:286:7)
+#17     _SinkTransformerStreamSubscription._close (dart:async/stream_transformers.dart:98:11)
+#18     _EventSinkWrapper.close (dart:async/stream_transformers.dart:25:11)
+#19     _HandlerEventSink.close (dart:async/stream_transformers.dart:254:12)
+#20     _SinkTransformerStreamSubscription._handleDone (dart:async/stream_transformers.dart:143:24)
+#21     _rootRun (dart:async/zone.dart:1122:38)
+#22     _CustomZone.run (dart:async/zone.dart:1023:19)
+#23     _CustomZone.runGuarded (dart:async/zone.dart:925:7)
+#24     _DoneStreamSubscription._sendDone (dart:async/stream_impl.dart:781:32)
+#25     _rootRun (dart:async/zone.dart:1126:13)
+#26     _CustomZone.run (dart:async/zone.dart:1023:19)
+#27     _CustomZone.runGuarded (dart:async/zone.dart:925:7)
+#28     _CustomZone.bindCallbackGuarded.<anonymous closure> (dart:async/zone.dart:965:23)
+#29     _microtaskLoop (dart:async/schedule_microtask.dart:43:21)
+#30     _startMicrotaskLoop (dart:async/schedule_microtask.dart:52:5)
+#31     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:118:13)
+#32     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:169:5)
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel master, v1.15.19, on Microsoft Windows [Version 10.0.18363.778], locale en-US)
+    • Flutter version 1.15.19 at C:\Users\DeepiakP\flutter
+    • Framework revision 60d0fef17a (7 weeks ago), 2020-03-09 22:07:34 -0700
+    • Engine revision 0e2c8feeeb
+    • Dart version 2.8.0 (build 2.8.0-dev.12.0 9983424a3c)
+
+[!] Android toolchain - develop for Android devices (Android SDK version 29.0.1)
+    • Android SDK at C:\Users\DeepiakP\AppData\Local\Android\sdk
+    • Android NDK location not configured (optional; useful for native profiling support)
+    • Platform android-29, build-tools 29.0.1
+    • Java binary at: C:\Program Files\Android\Android Studio\jre\bin\java
+    • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-1343-b01)
+    ! Some Android licenses not accepted.  To resolve this, run: flutter doctor --android-licenses
+
+[!] Android Studio (version 3.4)
+    • Android Studio at C:\Program Files\Android\Android Studio
+    ✗ Flutter plugin not installed; this adds Flutter specific functionality.
+    ✗ Dart plugin not installed; this adds Dart specific functionality.
+    • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-1343-b01)
+
+[✓] VS Code (version 1.44.2)
+    • VS Code at C:\Users\DeepiakP\AppData\Local\Programs\Microsoft VS Code
+    • Flutter extension version 3.9.1
+
+[✓] Connected device (1 available)
+    • CPH1911 • 7TGYNBAYCQYTR86S • android-arm64 • Android 9 (API 28)
+
+! Doctor found issues in 2 categories.
+```
